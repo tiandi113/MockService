@@ -1,0 +1,4 @@
+{
+  "api": "deault",
+  "title": "简易mock数据，在Mock添加json数据，appsettings中增加接口信息，前端调用接口时在Header中添加 Mock: true 信息既可使用"
+}
