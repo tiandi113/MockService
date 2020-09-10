@@ -3,6 +3,7 @@
 
 # 使用说明
 1、appsetting.json配置文件中增加mock数据的配置
+
 "mock": [
     {
       "api": "/",           //接口路径
@@ -12,7 +13,7 @@
     {
       "api": "/test",
       "mockjs": "mock.json",
-      "method": "get"
+      "method": "GET"
     }
   ]
   
